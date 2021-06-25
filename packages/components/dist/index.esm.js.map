@@ -1,1 +1,0 @@
-{"version":3,"file":"index.esm.js","sources":["../lib/index.js"],"sourcesContent":["\"use strict\";\n\nmodule.exports = components;\n\nfunction components() {\n console.log(\"Front components package!\");\n}\n"],"names":["module","exports","console","log"],"mappings":"AAEAA,OAAOC,QAEP,WACCC,QAAQC,IAAI"}
