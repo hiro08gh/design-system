@@ -5,6 +5,8 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "lerna:dev": "lerna run dev --parallel"
+    "lerna:bootstrap": "lerna bootstrap",
+    "lerna:dev": "lerna run dev --parallel",
+    "lerna:storybook": "lerna run storybook"
   }
 }
